@@ -1,0 +1,25 @@
+555  [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-H5PCK44 with PID 7128 (started by dongx in E:\个人积累\code\demo)
+557  [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+3146 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 3.05 seconds (JVM running for 3.68)
+18037 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+1752 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-H5PCK44 with PID 992 (started by dongx in E:\个人积累\code\demo)
+1775 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+8676 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 8.327 seconds (JVM running for 9.659)
+617  [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-H5PCK44 with PID 15592 (started by dongx in E:\个人积累\code\demo)
+620  [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+4292 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 4.189 seconds (JVM running for 4.891)
+39283 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+44284 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+49284 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+54285 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+59285 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+64286 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+69286 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+74286 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+79287 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+84288 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+89288 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+94288 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+99288 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+104289 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
+109290 [http-nio-9080-exec-1] INFO  c.e.d.c.HelloWorldFreemakerController - {"message":"hello world!","status":"ok"}
