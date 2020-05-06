@@ -39,5 +39,5 @@ mybatis-plus:
 
 ## 极光配置
 jpush:
-  appKey: 79ddf9ac5038d24f74dcf463
-  masterSecret: 963395dee1a1653eaaa46bc4
+  appKey: ******************
+  masterSecret: **************************
